@@ -4,20 +4,20 @@
 
 <div align="center">
 
-  <!-- Header Banner with Wave Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,50:1e3a8a,100:3b82f6&height=220&section=header&text=Dilika%20Dilmith&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Spring%20Boot%20Specialist&descFontSize=20&descAlignY=62&fontColor=ffffff&descColor=93c5fd" width="100%" alt="Dilika Dilmith Banner" />
+  <!-- Animated Header Title -->
+  <a href="https://dilika-dilmith.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=85&lines=Hi+there!+I%27m+Dilika+Dilmith;Full-Stack+Software+Developer;MERN+Stack+Enthusiast;Spring+Boot+Backend+Developer;Always+Learning%2C+Always+Building!" alt="Dilika Dilmith - Typing SVG" />
+  </a>
+
+  <!-- Tagline -->
+  <p align="center">
+    <b>🎓 IT Undergraduate @ SLIIT &nbsp;•&nbsp; 💻 Full-Stack Developer &nbsp;•&nbsp; 🚀 Aspiring Software Engineer</b>
+  </p>
 
   <br/>
 
-  <!-- Animated Dynamic Typing Banner (Properly Encoded) -->
-  <a href="https://dilika-dilmith.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Hi+there!+I%27m+Dilika+Dilmith;BSc+(Hons)+IT+Undergraduate+@+SLIIT;Full-Stack+Developer+(MERN+%2B+Spring+Boot);Mobile+App+Developer+(React+Native);Passionate+About+Clean+Code+%26+Modern+UI;Always+Learning%2C+Always+Building!" alt="Dilika Dilmith - Typing SVG" />
-  </a>
-
-  <br/><br/>
-
   <!-- Metric Badges -->
-  <p>
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=DilikaDilmith&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
     <a href="https://github.com/DilikaDilmith?tab=followers">
       <img src="https://img.shields.io/github/followers/DilikaDilmith?label=FOLLOWERS&style=for-the-badge&color=0ea5e9&logo=github&logoColor=white" alt="Followers" />
@@ -27,7 +27,7 @@
   </p>
 
   <!-- Quick Action & Connect Buttons -->
-  <p>
+  <p align="center">
     <a href="https://dilika-dilmith.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Explore_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
@@ -315,5 +315,4 @@ const dilika: Developer = {
 
 </div>
 
-<!-- Wave Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a8a,100:0a0f1d&height=120&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
