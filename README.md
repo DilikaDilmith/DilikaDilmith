@@ -5,14 +5,16 @@
 <div align="center">
 
   <!-- Header Banner with Wave Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0a0f1d,50:1e3a8a,100:3b82f6&height=220&section=header&text=Dilika%20Dilmith&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%26%20Spring%20Boot%20Enthusiast&descFontSize=20&descAlignY=62&fontColor=ffffff&descColor=93c5fd" width="100%" alt="Header Banner" />
-
-  <!-- Animated Dynamic Typing Banner -->
-  <a href="https://dilika-dilmith.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=50&lines=👋+Hello+World!+I'm+Dilika+Dilmith;🚀+BSc+(Hons)+IT+Undergraduate+@+SLIIT;💻+Full-Stack+Developer+(MERN+%2B+Spring+Boot);📱+Cross-Platform+Mobile+App+Developer+(React+Native);✨+Passionate+About+Clean+Architecture+%26+Sleek+UI%2FUX;⚡+Always+Learning%2C+Always+Building!" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,50:1e3a8a,100:3b82f6&height=220&section=header&text=Dilika%20Dilmith&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Spring%20Boot%20Specialist&descFontSize=20&descAlignY=62&fontColor=ffffff&descColor=93c5fd" width="100%" alt="Dilika Dilmith Banner" />
 
   <br/>
+
+  <!-- Animated Dynamic Typing Banner (Properly Encoded) -->
+  <a href="https://dilika-dilmith.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Hi+there!+I%27m+Dilika+Dilmith;BSc+(Hons)+IT+Undergraduate+@+SLIIT;Full-Stack+Developer+(MERN+%2B+Spring+Boot);Mobile+App+Developer+(React+Native);Passionate+About+Clean+Code+%26+Modern+UI;Always+Learning%2C+Always+Building!" alt="Dilika Dilmith - Typing SVG" />
+  </a>
+
+  <br/><br/>
 
   <!-- Metric Badges -->
   <p>
@@ -243,25 +245,20 @@ const dilika: Developer = {
 <div align="center">
   <!-- GitHub Stats & Streak Stats -->
   <p>
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=DilikaDilmith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" alt="GitHub Stats" />
-    <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=DilikaDilmith&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Streak Stats" />
+    <img height="185em" src="https://github-readme-stats-fast.vercel.app/api?username=DilikaDilmith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" alt="GitHub Stats" />
+    <img height="185em" src="https://streak-stats.demolab.com?user=DilikaDilmith&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Streak Stats" />
   </p>
 
   <!-- Top Languages -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilikaDilmith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DilikaDilmith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
   </p>
 
-  <!-- GitHub Trophies -->
+  <!-- Profile Summary Cards -->
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=DilikaDilmith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DilikaDilmith&theme=tokyonight" alt="Profile Details Card" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DilikaDilmith&theme=tokyonight" alt="Languages Breakdown" />
   </p>
-</div>
-
-<!-- Interactive Activity Graph -->
-<div align="center">
-  <p><b>📈 Contribution Graph</b></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilikaDilmith&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" width="95%" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -312,11 +309,11 @@ const dilika: Developer = {
   <!-- Footer Typing Animation -->
   <p>
     <a href="https://dilika-dilmith.vercel.app">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+my+profile!;Let's+build+something+extraordinary+together+🚀;Have+a+great+day+ahead!+✨" alt="Footer Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+my+profile!;Let%27s+build+something+extraordinary+together!;Have+a+great+day+ahead!" alt="Footer Typing SVG" />
     </a>
   </p>
 
 </div>
 
 <!-- Wave Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:3b82f6,50:1e3a8a,100:0a0f1d&height=120&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a8a,100:0a0f1d&height=120&section=footer" width="100%" alt="Footer Banner" />
