@@ -157,13 +157,13 @@ const dilika = {
 
 <div align="center">
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilikaDilmith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0f1a&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilikaDilmith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0f1a&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&cache_seconds=86400" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DilikaDilmith&theme=tokyonight&hide_border=true&background=0a0f1a&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" />
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilikaDilmith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1a&title_color=3b82f6&text_color=ffffff&langs_count=8" /></p>
-<p><img src="https://github-profile-trophy.vercel.app/?username=DilikaDilmith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" /></p>
-</div>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilikaDilmith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1a&title_color=3b82f6&text_color=ffffff&langs_count=8&cache_seconds=86400" />
+</p>
 <!-- Contribution Activity Graph -->
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=DilikaDilmith&theme=tokyo-night&hide_border=true&bg_color=0a0f1a&color=3b82f6&line=3b82f6&point=ffffff" width="100%"/></div>
 
